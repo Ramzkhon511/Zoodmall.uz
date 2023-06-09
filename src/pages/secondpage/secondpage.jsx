@@ -6,7 +6,7 @@ export default class secondpage extends Component {
     return (
       <div>
            <Nav/>
-              secondpage   
+              secondpage   salom
            <Footer/>
       </div>
     )
