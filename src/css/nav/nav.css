@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navdiv1{
+    width: 100%;
+    height: 30vh;
+    background-color: aqua;
+   
+}
+.navdiv11{
+    width: 100%;
+    height: 5vh;
+    background-color: #FFD200;
+}
+.navdiv111{
+    width: 35%;
+    height: 5vh;
+    background-color: cornflowerblue;
+}
+.navdiv111>a{
+    color: #606266;
+}
+.navdiv112>button{
+    color: #606266;
+}
+a{
+  text-decoration: none;
+}
+
+.navdiv112{
+    width: 35%;
+    height: 5vh;
+    background-color: rgb(100, 237, 164);
+}
+.navdiv12{
+    width: 80%;
+    height: 15vh;
+    background-color: chocolate;
+}
+.navdiv13{
+    height: 10vh;
+    width: 80% !important;
+}
